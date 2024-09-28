@@ -1,4 +1,4 @@
-[![version](https://badgen.net/npm/v/highlightjs-enterprisecobol)](https://www.npmjs.com/package/highlightjs-rexx) [![license](https://badgen.net/badge/license/apache2.0)](./LICENSE)
+[![version](https://badgen.net/npm/v/highlightjs-enterprisecobol)](https://www.npmjs.com/package/highlightjs-enterprisecobol) [![license](https://badgen.net/badge/license/apache2.0)](./LICENSE)
 
 # Enterprise COBOL - syntax highlighting for highlight.js
 
